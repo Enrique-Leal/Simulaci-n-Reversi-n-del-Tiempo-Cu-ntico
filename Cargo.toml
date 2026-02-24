@@ -1,0 +1,12 @@
+[package]
+name = "quantum_engine"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rustfft = "6.1"
+num-complex = "0.4"
+image = "0.24"
+rand = "0.8"
+rand_distr = "0.4"
+rayon = "1.8"
